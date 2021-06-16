@@ -1,6 +1,9 @@
 /*Modifs SEO*/
 
 /*Page d'accueil*/
+.text-center.hero-bloc-text.tc-white {
+    color: white!important;
+}
 .mg-md.text-center {
     z-index: 2;
     position: relative;
